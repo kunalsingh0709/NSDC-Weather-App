@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+}
+div.container-fluid{
+    background-color: yellowgreen;
+}
+a.navbar-brand{
+    color: whitesmoke;
+}
